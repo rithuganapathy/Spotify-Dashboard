@@ -2,7 +2,7 @@
 
 This repository contains an interactive dashboard built in **Tableau** to explore and analyze Spotify song-level data. The dashboard presents visual insights into song characteristics, artist trends, and explicit content distribution.
 
-![Spotify Dashboard Preview](e4eb3156-9325-4e0f-bd85-852094253cec.png)
+![Spotify Dashboard Preview](Dashboard.png)
 
 ---
 
